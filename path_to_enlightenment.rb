@@ -2,26 +2,26 @@
 
 $LOAD_PATH << File.dirname(__FILE__)
 
-# part 1
-require 'about_asserts'
-require 'about_nil'
-#require 'about_objects'
-require 'about_arrays'
-#require 'about_array_assignment'
-require 'about_hashes'
-require 'about_strings'
-require 'about_symbols'
-require 'about_methods'
-require 'about_keyword_arguments'
+# # part 1
+# require 'about_asserts'
+# require 'about_nil'
+# #require 'about_objects'
+# require 'about_arrays'
+# #require 'about_array_assignment'
+# require 'about_hashes'
+# require 'about_strings'
+# require 'about_symbols'
+# require 'about_methods'
+# require 'about_keyword_arguments'
 
 # part 2
 require 'about_control_statements'
 require 'about_true_and_false'
 require 'about_triangle_project'
 
-require 'about_exceptions'
+# require 'about_exceptions'
 
-require 'about_triangle_project_2'
+# require 'about_triangle_project_2'
 require 'about_iteration'
 require 'about_blocks'
 require 'about_scoring_project'
